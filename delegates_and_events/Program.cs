@@ -14,8 +14,16 @@ namespace DelegatesAndEvents
             Game game = new Game(5);
 
             game.Start();
+            
+            game.GoalReached += (OnGoalReached);
 
             Console.ReadKey();
+        }
+
+        static void OnGoalReached()
+        {
+            Console.WriteLine("Congrats! Goal reached!");
+
         }
     }
 }
