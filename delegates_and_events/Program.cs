@@ -20,9 +20,9 @@ namespace DelegatesAndEvents
             Console.ReadKey();
         }
 
-        static void OnGoalReached()
+        static void OnGoalReached(int moves)
         {
-            Console.WriteLine("Congrats! Goal reached!");
+            Console.WriteLine($"Congrats! Goal reached with {moves} moves!");
 
         }
     }
