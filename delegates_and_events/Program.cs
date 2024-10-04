@@ -3,13 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DelegatesAndEvents;
 
 namespace DelegatesAndEvents
 {
-    internal class Program
+    class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            Game game = new Game(5);
+
+            game.Start();
+
+            Console.ReadKey();
         }
     }
 }
