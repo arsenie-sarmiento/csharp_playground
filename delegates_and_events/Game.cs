@@ -14,6 +14,7 @@ namespace DelegatesAndEvents
         public readonly Cell GoalPosition;
         public readonly Cell CurrentPosition;
 
+        public event Action GoalReached;
         public Game(int size)
         {
             Size = size;
@@ -51,7 +52,7 @@ namespace DelegatesAndEvents
 
             if (current.RowNumber == GoalPosition.RowNumber && current.ColumnNumber == GoalPosition.ColumnNumber)
             {
-                Console.WriteLine("Congrats! Goal reached!");
+                GoalReached.Invoke();
             }
         }
 
@@ -65,4 +66,3 @@ namespace DelegatesAndEvents
         }
     }
 }
-
