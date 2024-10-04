@@ -10,11 +10,15 @@ namespace DelegatesAndEvents
     public class Game
     {
         public readonly int Size;
+        public int MoveCount = 0;
+
         public Cell[,] TheGrid;
         public readonly Cell GoalPosition;
         public readonly Cell CurrentPosition;
 
-        public event Action GoalReached;
+        public delegate void GoalReachedHandler(int movecount);
+        public event GoalReachedHandler GoalReached;
+
         public Game(int size)
         {
             Size = size;
@@ -37,6 +41,7 @@ namespace DelegatesAndEvents
 
         internal async Task ChangePosition(int row, int col)
         {
+            MoveCount += 1;
             // Validate indices
             if (row < 0 || row >= Size || col < 0 || col >= Size)
             {
@@ -52,7 +57,7 @@ namespace DelegatesAndEvents
 
             if (current.RowNumber == GoalPosition.RowNumber && current.ColumnNumber == GoalPosition.ColumnNumber)
             {
-                GoalReached.Invoke();
+                GoalReached.Invoke(MoveCount);
             }
         }
 
