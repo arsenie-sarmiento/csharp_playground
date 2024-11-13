@@ -1,0 +1,14 @@
+D:\ass3_sandbox\finalKnightsGamePlay\TestInheritance\bin\Debug\net8.0\TestInheritance.exe
+D:\ass3_sandbox\finalKnightsGamePlay\TestInheritance\bin\Debug\net8.0\TestInheritance.deps.json
+D:\ass3_sandbox\finalKnightsGamePlay\TestInheritance\bin\Debug\net8.0\TestInheritance.runtimeconfig.json
+D:\ass3_sandbox\finalKnightsGamePlay\TestInheritance\bin\Debug\net8.0\TestInheritance.dll
+D:\ass3_sandbox\finalKnightsGamePlay\TestInheritance\bin\Debug\net8.0\TestInheritance.pdb
+D:\ass3_sandbox\finalKnightsGamePlay\TestInheritance\obj\Debug\net8.0\TestInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\ass3_sandbox\finalKnightsGamePlay\TestInheritance\obj\Debug\net8.0\TestInheritance.AssemblyInfoInputs.cache
+D:\ass3_sandbox\finalKnightsGamePlay\TestInheritance\obj\Debug\net8.0\TestInheritance.AssemblyInfo.cs
+D:\ass3_sandbox\finalKnightsGamePlay\TestInheritance\obj\Debug\net8.0\TestInheritance.csproj.CoreCompileInputs.cache
+D:\ass3_sandbox\finalKnightsGamePlay\TestInheritance\obj\Debug\net8.0\TestInheritance.dll
+D:\ass3_sandbox\finalKnightsGamePlay\TestInheritance\obj\Debug\net8.0\refint\TestInheritance.dll
+D:\ass3_sandbox\finalKnightsGamePlay\TestInheritance\obj\Debug\net8.0\TestInheritance.pdb
+D:\ass3_sandbox\finalKnightsGamePlay\TestInheritance\obj\Debug\net8.0\TestInheritance.genruntimeconfig.cache
+D:\ass3_sandbox\finalKnightsGamePlay\TestInheritance\obj\Debug\net8.0\ref\TestInheritance.dll
