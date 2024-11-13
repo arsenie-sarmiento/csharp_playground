@@ -1,0 +1,14 @@
+D:\ass3_sandbox\finalKnightsGamePlay\KnightsTaleStatic\bin\Debug\net8.0\KnightsTaleStatic.exe
+D:\ass3_sandbox\finalKnightsGamePlay\KnightsTaleStatic\bin\Debug\net8.0\KnightsTaleStatic.deps.json
+D:\ass3_sandbox\finalKnightsGamePlay\KnightsTaleStatic\bin\Debug\net8.0\KnightsTaleStatic.runtimeconfig.json
+D:\ass3_sandbox\finalKnightsGamePlay\KnightsTaleStatic\bin\Debug\net8.0\KnightsTaleStatic.dll
+D:\ass3_sandbox\finalKnightsGamePlay\KnightsTaleStatic\bin\Debug\net8.0\KnightsTaleStatic.pdb
+D:\ass3_sandbox\finalKnightsGamePlay\KnightsTaleStatic\obj\Debug\net8.0\KnightsTaleStatic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ass3_sandbox\finalKnightsGamePlay\KnightsTaleStatic\obj\Debug\net8.0\KnightsTaleStatic.AssemblyInfoInputs.cache
+D:\ass3_sandbox\finalKnightsGamePlay\KnightsTaleStatic\obj\Debug\net8.0\KnightsTaleStatic.AssemblyInfo.cs
+D:\ass3_sandbox\finalKnightsGamePlay\KnightsTaleStatic\obj\Debug\net8.0\KnightsTaleStatic.csproj.CoreCompileInputs.cache
+D:\ass3_sandbox\finalKnightsGamePlay\KnightsTaleStatic\obj\Debug\net8.0\KnightsTaleStatic.dll
+D:\ass3_sandbox\finalKnightsGamePlay\KnightsTaleStatic\obj\Debug\net8.0\refint\KnightsTaleStatic.dll
+D:\ass3_sandbox\finalKnightsGamePlay\KnightsTaleStatic\obj\Debug\net8.0\KnightsTaleStatic.pdb
+D:\ass3_sandbox\finalKnightsGamePlay\KnightsTaleStatic\obj\Debug\net8.0\KnightsTaleStatic.genruntimeconfig.cache
+D:\ass3_sandbox\finalKnightsGamePlay\KnightsTaleStatic\obj\Debug\net8.0\ref\KnightsTaleStatic.dll
