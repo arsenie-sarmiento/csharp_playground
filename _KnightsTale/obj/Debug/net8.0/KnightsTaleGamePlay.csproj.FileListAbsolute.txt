@@ -1,0 +1,11 @@
+D:\ass3_sandbox\finalKnightsGamePlay\obj\Debug\net8.0\KnightsTaleGamePlay.GeneratedMSBuildEditorConfig.editorconfig
+D:\ass3_sandbox\finalKnightsGamePlay\obj\Debug\net8.0\KnightsTaleGamePlay.AssemblyInfoInputs.cache
+D:\ass3_sandbox\finalKnightsGamePlay\obj\Debug\net8.0\KnightsTaleGamePlay.AssemblyInfo.cs
+D:\ass3_sandbox\finalKnightsGamePlay\obj\Debug\net8.0\KnightsTaleGamePlay.csproj.CoreCompileInputs.cache
+D:\ass3_sandbox\finalKnightsGamePlay\bin\Debug\net8.0\KnightsTaleGamePlay.deps.json
+D:\ass3_sandbox\finalKnightsGamePlay\bin\Debug\net8.0\KnightsTaleGamePlay.dll
+D:\ass3_sandbox\finalKnightsGamePlay\bin\Debug\net8.0\KnightsTaleGamePlay.pdb
+D:\ass3_sandbox\finalKnightsGamePlay\obj\Debug\net8.0\KnightsTaleGamePlay.dll
+D:\ass3_sandbox\finalKnightsGamePlay\obj\Debug\net8.0\refint\KnightsTaleGamePlay.dll
+D:\ass3_sandbox\finalKnightsGamePlay\obj\Debug\net8.0\KnightsTaleGamePlay.pdb
+D:\ass3_sandbox\finalKnightsGamePlay\obj\Debug\net8.0\ref\KnightsTaleGamePlay.dll

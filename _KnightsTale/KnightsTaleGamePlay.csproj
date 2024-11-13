@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Interfaces\**" />
+    <Compile Include="Model\**" />
+    <EmbeddedResource Include="Interfaces\**" />
+    <EmbeddedResource Include="Model\**" />
+    <None Include="Interfaces\**" />
+    <None Include="Model\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="GamePlayController.cs" />
+  </ItemGroup>
+
+</Project>
